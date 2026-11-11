@@ -1,0 +1,42 @@
+{
+  "filename": "DizerEdge-SecureFileSharing-0.2.0-win-x64.exe",
+  "bytes": 50395768,
+  "sha256": "6dd5e5fab9bdc633f771f3ed295e30d24e03c83a400a5f2cd64ea1ec82a3805d",
+  "chunks": [
+    {
+      "url": "../packages/windows/00.bin",
+      "bytes": 8388608,
+      "sha256": "889ab244f63ff8700b8e32e267d062106be5adb14ade1879e164978654f12c97"
+    },
+    {
+      "url": "../packages/windows/01.bin",
+      "bytes": 8388608,
+      "sha256": "19b690850aa404f7793c052c34c891449927b6ecf93dcb8df9c19b72bf123f30"
+    },
+    {
+      "url": "../packages/windows/02.bin",
+      "bytes": 8388608,
+      "sha256": "6a2f61774f69e1fe027420948cde39a2ec0c3e3320acc19b8da4d1cb0d6b7330"
+    },
+    {
+      "url": "../packages/windows/03.bin",
+      "bytes": 8388608,
+      "sha256": "2918f2b25f64ec92061f36614008d7886e61103a5ab6f43eb4a73e9337f20162"
+    },
+    {
+      "url": "../packages/windows/04.bin",
+      "bytes": 8388608,
+      "sha256": "cc0256f33282ce3ab31cc306b074182dbe83059e9ddc405d7c2d8397e4a559ac"
+    },
+    {
+      "url": "../packages/windows/05.bin",
+      "bytes": 8388608,
+      "sha256": "72d9a8ed5b11b166c5df35d28753d7b51399f9fd87c7217b7eadcdcb1994090c"
+    },
+    {
+      "url": "../packages/windows/06.bin",
+      "bytes": 64120,
+      "sha256": "15b6ef9d102d5f47d4220982fd01566df93760bb49b31cc447b372cc5fc74808"
+    }
+  ]
+}

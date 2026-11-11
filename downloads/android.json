@@ -1,0 +1,32 @@
+{
+  "filename": "DizerEdge-SecureFileSharing-Android-0.2.0-dev.apk",
+  "bytes": 41740487,
+  "sha256": "b92052fd8a6aa06118679ac8bb56b6e54abbd09d1a5fe85e7e4cc395c90cba54",
+  "chunks": [
+    {
+      "url": "../packages/android/00.bin",
+      "bytes": 8388608,
+      "sha256": "4167d753e8633546e43c0c8078cafed166abaf3c710a5571504d7145706d9ad4"
+    },
+    {
+      "url": "../packages/android/01.bin",
+      "bytes": 8388608,
+      "sha256": "d4ababa00955080e0878bfebf981f02bee695bc8eb4ea72a53b54b65907d48ec"
+    },
+    {
+      "url": "../packages/android/02.bin",
+      "bytes": 8388608,
+      "sha256": "8f401d7e6502b405f9cc6d450e7c2ed16c60957ffeb3711e2979f22b67bf1ddf"
+    },
+    {
+      "url": "../packages/android/03.bin",
+      "bytes": 8388608,
+      "sha256": "6046545c479babf3e62480394646a1acf792da06f5a6bc9c9d6555ad9ddce52c"
+    },
+    {
+      "url": "../packages/android/04.bin",
+      "bytes": 8186055,
+      "sha256": "20d4adabb09a7128b15474461faf31143e31adbbf122204bbdb0e75d48d8e7ac"
+    }
+  ]
+}
